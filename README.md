@@ -43,7 +43,7 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
 **Dashboard**:
 
 En el programa Power BI  se crearon  páginas. En estas se hicieron un análisis por ubicación, temporal y de victimas. Además se agregaron unos KPI (indicadores clave de desempeño) para poder llegar al objetivo, que es la disminución de los accidentes por siniestros viales.
-Recomendamos descargar el panel para acceder a la información más detallada y  una experiencia interactiva. [Dashboard](https://github.com/MicaelaCallahuanca/SINIESTROS_VIALES/blob/main/pi02_siniestros_viales.pbix)
+Recomendamos descargar el panel para acceder a la información más detallada y  una experiencia interactiva. [Dashboard](https://github.com/MicaelaCallahuanca/SINIESTROS_VIALES/blob/main/PI_SINIESTROS_VIALES.pbix)
 
 
 
